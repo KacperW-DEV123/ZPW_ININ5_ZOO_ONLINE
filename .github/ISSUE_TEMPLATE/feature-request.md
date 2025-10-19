@@ -8,6 +8,7 @@ assignees: ''
 
 **Opis funckji**
 Opisz funkcje i dlaczego
+
 **Przykład użycia**
 Jak user skorzysta z tej funkcji
 
