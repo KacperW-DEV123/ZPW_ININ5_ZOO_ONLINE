@@ -1,7 +1,7 @@
 ---
 name: Dodanie funkcji
 about: Dodaj funkcje na zoo online
-title: [FEATURE] opis krótki
+title: "[FEATURE] opis krótki"
 labels: enhancement
 assignees:''
 ---
